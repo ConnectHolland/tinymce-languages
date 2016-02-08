@@ -1,0 +1,16 @@
+{
+  "name": "connectholland-tinymce-languages",
+  "version": "0.0.1",
+  "description": "Connect Holland NPM installable language packs for TinyMCE",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConnectHolland/tinymce-languages.git"
+  },
+  "author": "Giso Stallenberg <giso@connectholland.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConnectHolland/tinymce-languages/issues"
+  }
+}
